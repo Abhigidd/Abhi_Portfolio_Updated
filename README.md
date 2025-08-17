@@ -50,4 +50,4 @@
   📧 Email: abhishekgidd@gmail.com
   🌐 Portfolio: 
   💼 LinkedIn: https://www.linkedin.com/in/abhishek-gidd-870957293/
-  🐙 GitHub: 
+  🐙 GitHub: https://github.com/Abhigidd
